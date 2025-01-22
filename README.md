@@ -1,6 +1,6 @@
 # BridgeLabz_2115000128
 Day 1
-date 20/01/25
+date : 20/01/25
 a.Topics covered - Introduction to java, features of java, Components of java, Diffrence between JVM, JRE and JDK, Variables in java.
 b.Submitted assignment 
 
