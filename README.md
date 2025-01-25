@@ -12,3 +12,16 @@ Day 3
 date : 22/01/25
 a.Topics covered - User input, best programming practices and solved basic practice problems
 b.Submitted assignment
+
+Day 4
+date : 23/01/25
+a.Topics covered - Conditional Satatements and decision making statements (if-else, loops)
+b.Submitted Assignment
+
+Day 5
+date : 24/01/25
+Inaugration Ceremony
+
+Day 6
+date : 25/01/25
+a.Submitted Assignment on arrays.
